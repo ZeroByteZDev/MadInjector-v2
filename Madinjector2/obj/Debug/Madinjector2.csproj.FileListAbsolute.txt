@@ -1,0 +1,13 @@
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\bin\Debug\Siticone.UI.dll
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Debug\Madinjector2.csproj.AssemblyReference.cache
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Debug\Madinjector2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Debug\Madinjector2.MainForm.resources
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Debug\Madinjector2.Properties.Resources.resources
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Debug\Madinjector2.csproj.GenerateResource.cache
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Debug\Madinjector2.csproj.CoreCompileInputs.cache
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Debug\Madinjector2.csproj.CopyComplete
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\bin\Debug\MadInjector.exe.config
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\bin\Debug\MadInjector.exe
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\bin\Debug\MadInjector.pdb
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Debug\MadInjector.exe
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Debug\MadInjector.pdb

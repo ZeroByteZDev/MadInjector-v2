@@ -1,0 +1,41 @@
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.AssemblyReference.cache
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.MainForm.resources
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.Properties.Resources.resources
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.GenerateResource.cache
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.CoreCompileInputs.cache
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.CopyComplete
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\bin\Release\MadInjector.exe.config
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\bin\Release\MadInjector.exe
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\bin\Release\MadInjector.pdb
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Release\MadInjector.exe
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Release\MadInjector.pdb
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\bin\Release\Siticone.UI.dll
+C:\Users\Zero\source\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.ProcList.resources
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\bin\Release\MadInjector.exe.config
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\bin\Release\MadInjector.exe
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\bin\Release\MadInjector.pdb
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\bin\Release\Siticone.UI.dll
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.AssemblyReference.cache
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.SuggestedBindingRedirects.cache
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.MainForm.resources
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.ProcList.resources
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.Properties.Resources.resources
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.GenerateResource.cache
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.CoreCompileInputs.cache
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.CopyComplete
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\MadInjector.exe
+E:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\MadInjector.pdb
+D:\Source Code Projects\repos\Madinjector2\Madinjector2\bin\Release\MadInjector.exe.config
+D:\Source Code Projects\repos\Madinjector2\Madinjector2\bin\Release\MadInjector.exe
+D:\Source Code Projects\repos\Madinjector2\Madinjector2\bin\Release\MadInjector.pdb
+D:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.AssemblyReference.cache
+D:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.SuggestedBindingRedirects.cache
+D:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.MainForm.resources
+D:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.ProcList.resources
+D:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.Properties.Resources.resources
+D:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.GenerateResource.cache
+D:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.CoreCompileInputs.cache
+D:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\Madinjector2.csproj.CopyComplete
+D:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\MadInjector.exe
+D:\Source Code Projects\repos\Madinjector2\Madinjector2\obj\Release\MadInjector.pdb
